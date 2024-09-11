@@ -1,0 +1,20 @@
+.head{
+    width: 100px;
+    height: 20px;
+    background-color: red;
+
+}
+
+.mid{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+
+}
+
+.foot{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+
+}
