@@ -1,18 +1,63 @@
 
 
-.bg_photo{
+/* .bg_photo{
     background-image: url(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-position: center;
-    background-size: contain;
+    background-size:cover;
     background-repeat: no-repeat;
-    background
-}
+    display: flex;
+    align-items:center;
+    
+    width: 100vw;
+} */
+ /* .foot{
+   width: 100%;   
+} */
+/* display: inline-block;
+text-align: center;
+align-items: center; */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 
 
 .container{
     width: 300px;
-    height: 250px;
+    height: 300px;
     margin: 0 auto;
     border-radius: 10px;
-    background-color: aquamarine;
+    background-color:yellowgreen;
+    padding: 10px;
+    
+
+    
 }
+
+h1{
+    text-align: center;
+}
+h5{
+    text-align: end;
+}
+
+label{
+    font-size: 20px
+}
+
+input{
+    border: inherit;
+    padding:10px 30px ;
+    border-radius: 5px;
+    background-color:transparent;
+    border-bottom: 1px solid black;
+}
+
+.footer{
+    width:100px;
+    height: 20px;
+    background-color:white;
+    border:none;
+    border-radius: 5px; 
+    margin: 0 100px;
+}
+
