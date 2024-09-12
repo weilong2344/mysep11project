@@ -1,20 +1,18 @@
-.head{
-    width: 100px;
-    height: 20px;
-    background-color: red;
 
+
+.bg_photo{
+    background-image: url(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background
 }
 
-.mid{
-    width: 100px;
-    height: 20px;
-    background-color: green;
 
-}
-
-.foot{
-    width: 100px;
-    height: 20px;
-    background-color: blue;
-
+.container{
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: aquamarine;
 }
